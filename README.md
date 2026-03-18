@@ -27,13 +27,13 @@ Modern web applications typically follow a **client–server architecture**.
 ### Architecture Flow
 
 User
-↓
+➜
 Browser (Client)
-↓
+➜
 Frontend (UI Layer)
-↓
+➜
 Backend (Server)
-↓
+➜
 Database (MongoDB)
 
 ### Components Explanation
